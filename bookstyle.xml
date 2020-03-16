@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+
+<BookInfo>
+<Book>
+ <Bid>101</Bid>
+<name>php and xml </name>
+<Author>Madhu</Author>
+<Price>120</Price>
+<year>2011</year>
+</Book>
+
+<Book>
+ <Bid>102</Bid>
+<name>java </name>
+<Author>xyz</Author>
+<Price>220</Price>
+<year>2012</year>
+</Book>
+
+<Book>
+ <Bid>103</Bid>
+<name>Syspro </name>
+<Author>qqq</Author>
+<Price>220</Price>
+<year>2013</year>
+</Book>
+
+<Book>
+ <Bid>104</Bid>
+<name>tcs </name>
+<Author>wwww</Author>
+<Price>300</Price>
+<year>2010</year>
+</Book>
+<Book>
+ <Bid>105</Bid>
+<name>eletronics</name>
+<Author>rrrr</Author>
+<Price>350</Price>
+<year>2009</year>
+</Book>
+</BookInfo>
